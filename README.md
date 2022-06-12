@@ -11,13 +11,18 @@ Command list
 <li>pkg install python -y</li> <!-- F1d41 -->
 <hr>
 
-pkg install git
+<li>pkg install git -y</li> <!-- F1d41 -->
+<hr>
 
-git clone https://github.com/PHYSCOSPY/auto_admin_hack
+<li>git clone https://github.com/PHYSCOSPY/auto_admin_hack </li> <!-- F1d41 -->
+<hr>
 
-cd auto_admin_hack
+<li>cd auto_admin_hack</li> <!-- F1d41 -->
+<hr>
 
-chmod +x *
-
-python Admin.py
+<li>python Admin.py.py</li> <!-- F1d41 -->
+<hr>
+Or
+<hr>
+<li>python2 Admin.py.py</li> <!-- F1d41 -->
 
