@@ -96,10 +96,10 @@ print()
 num1 = int(input("\033[0;33;40mEnter Creater Admin Number:-"))
 print(num1)
 
-anju = input("\033[0;31;40mDO YOU WANT TO HIJACK (y/n ) : ")
-if anju == "y" or  anju == "Y" :
+Spy = input("\033[0;31;40mDO YOU WANT TO HIJACK (y/n ) : ")
+if spy == "y" or  spy == "Y" :
 	print("\033[0;32;40mok started hijacking.....")
-elif  anju == "n" or  anju == "N" :
+elif  spy == "n" or  spy == "N" :
 	print ("\033[0;36;40ok come again...")
 	exit()
 else :
