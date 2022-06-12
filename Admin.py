@@ -117,10 +117,10 @@ while x>y :
 	print()
 print("\033[0;33;40m\Please just leave and come here to hijack it😂")
 print()
-print("\033[0;36;40m\nඋබහෙන පවු බන්😂")
+print("\033[0;36;40m\nDO YOU THINK HIJACK EASY😂")
 print()
 import os
 os.system("figlet PRANK|lolcat ")
 print()
-print("\033[0;36;40m\nඑහෙනම් කොල්ලො අපි ගියා.....✌\n Bye✌")
-print("මෙක පුරුදුවෙන්න හදපු එකක් 😁")
+print("\033[0;36;40m\nSo boys we went ..... ✌ \ nBye✌")
+print("This is a habitual one 😁")
