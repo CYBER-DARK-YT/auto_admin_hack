@@ -21,7 +21,7 @@ Command list
 <hr>
 <li>bash setup.sh</li><!-- F1d41 -->
 <hr>
-<li>python Admin.py.py</li> <!-- F1d41 -->
+<li>python Admin.py</li> <!-- F1d41 -->
 <hr>
 Or
 <hr>
