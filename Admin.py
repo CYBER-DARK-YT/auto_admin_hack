@@ -1,5 +1,5 @@
 import os
-os.system("figlet WELCOME|lolcat ")
+os.system("figlet WELCOME|lolcat")
 print()
 print()
 
@@ -42,7 +42,7 @@ print()
 print()
 
 import os
-os.system("figlet Group Hijack|lolcat ")
+os.system("figlet Group Hijack|lolcat")
 print()
 print()
 x=str(input("Enter The Hijack Group link :-"))
@@ -121,7 +121,7 @@ print()
 print("\033[0;36;40m\nDO YOU THINK HIJACK EASY 😂")
 print()
 import os
-os.system("figlet PRANK|lolcat ")
+os.system("figlet PRANK|lolcat")
 print("               code by physco spy" )
 print("\033[0;36;40m\nSo boys we went ..... ✌ \ nBye")
 print("This is a habitual one 😁")
