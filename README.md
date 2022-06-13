@@ -19,7 +19,8 @@ Command list
 
 <li>cd auto_admin_hack</li> <!-- F1d41 -->
 <hr>
-
+<li>bash setup.sh</li><!-- F1d41 -->
+<hr>
 <li>python Admin.py.py</li> <!-- F1d41 -->
 <hr>
 Or
