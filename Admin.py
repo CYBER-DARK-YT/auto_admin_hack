@@ -1,4 +1,6 @@
 import os
+import sys
+os.system("bash setup.sh")
 os.system("figlet WELCOME|lolcat")
 print()
 print()
